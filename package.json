@@ -1,8 +1,8 @@
 {
-  "name": "hyper-types",
-  "version": "1.0.0",
+  "name": "@hyper63/hyper-types",
+  "version": "0.0.1",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "devDependencies": {
     "uvu": "^0.5.1"
